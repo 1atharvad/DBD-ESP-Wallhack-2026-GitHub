@@ -1,0 +1,7 @@
+colorama
+psutil
+pymem
+numpy
+win32api
+pynput
+pynput
